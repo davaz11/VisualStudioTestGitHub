@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <!--Cambio Rama test-->
         <Image></Image>
         <!--RamaTest1-->
         <!--RamaTest1-->
