@@ -8,6 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <!--Cambio en la rama MASTER-->
+        <!--Cambio Rama test-->
         <Image></Image>
         <!--RamaTest1-->
         <!--RamaTest1-->
